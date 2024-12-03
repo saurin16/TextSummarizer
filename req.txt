@@ -1,0 +1,4 @@
+spacy==3.6.0  # Replace with the specific version compatible with your setup
+transformers==4.35.0  # Replace with the compatible version
+torch>=2.0.0  # Required for PyTorch backend in Transformers
+pandas==2.1.1  # For tabular representation
